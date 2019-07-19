@@ -5,4 +5,4 @@
 ### 참고사이트 
 #### site1 : https://github.com/hunkim/DeepLearningZeroToAll/
 #### site2 : http://hunkim.github.io/ml/
-#### 강의자 : 김성훈 교수 (https://github.com/hunkim)
+#### 강의자 : HKUST 김성훈 교수 (https://github.com/hunkim)
