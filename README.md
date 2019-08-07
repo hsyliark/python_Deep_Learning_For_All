@@ -7,3 +7,9 @@
 #### site1 : https://github.com/hunkim/DeepLearningZeroToAll/
 #### site2 : http://hunkim.github.io/ml/
 #### 강의자 : HKUST 김성훈 교수 (https://github.com/hunkim)
+
+### references
+#### https://github.com/nlintz/TensorFlow-Tutorials/
+#### https://github.com/golbin/TensorFlow-ML-Exercises
+#### https://github.com/FuZer/Study_TensorFlow
+#### https://github.com/fchollet/keras/tree/master/examples
