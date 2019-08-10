@@ -13,3 +13,8 @@
 #### https://github.com/golbin/TensorFlow-ML-Exercises
 #### https://github.com/FuZer/Study_TensorFlow
 #### https://github.com/fchollet/keras/tree/master/examples
+
+### 관리자 모드로 cmd 실행
+- pip install --upgrade setuptools <br>
+- pip install tensorflow <br>
+- pip install keras <br>
